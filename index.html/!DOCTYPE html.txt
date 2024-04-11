@@ -1,0 +1,34 @@
+!DOCTYPE html
+html lang=es
+head
+    meta charset=UTF-8
+    meta name=viewport content=width=device-width, initial-scale=1.0
+    titleAvisosITI3 - Iniciotitle
+    link rel=stylesheet href=styles.css
+head
+body
+    header
+        h1AvisosITI3h1
+        nav
+            ul
+                lia href=index.htmlInicioali
+                lia href=avisos.htmlAvisos Recientesali
+                lia href=categorias.htmlCategoríasali
+                lia href=about.htmlSobre Nosotrosali
+                lia href=contact.htmlContactoali
+            ul
+        nav
+    header
+    main
+        section class=container
+            !-- Aquí puedes colocar el contenido de tu página de inicio --
+            h2¡Bienvenido a AvisosITI3!h2
+            pEncuentra los avisos más recientes y relevantes para la comunidad de ITI3.p
+            !-- Puedes añadir más contenido aquí --
+        section
+    main
+    footer
+        p&copy; 2024 AvisosITI3. Todos los derechos reservados.p
+    footer
+body
+html
